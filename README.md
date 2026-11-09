@@ -65,8 +65,8 @@ Let B_j = A_j - p(J-I), with zero diagonal. The count `inj(M, B_j)` sums the pro
 
 $$
 T_F = \sum_{M\in F} \rho^{e(M)}
-\frac{(n-v(M))!}{n!\,[p(1-p)]^{e(M)}\,\operatorname{aut}(M)}
-\operatorname{inj}(M,B_1)\operatorname{inj}(M,B_2).
+\frac{(n-v(M))!}{n!\,[p(1-p)]^{e(M)}\,\mathrm{aut}(M)}
+\mathrm{inj}(M,B_1)\mathrm{inj}(M,B_2).
 $$
 
 The simulations use the true p and rho. At rho=0, the analysis uses the weights for rho=0.5 to obtain a nontrivial null comparison. For a single edge size, the rho factor is common to all motifs and does not change the ROC ordering.
