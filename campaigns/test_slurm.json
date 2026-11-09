@@ -1,0 +1,6 @@
+{
+ "name": "test_slurm",
+ "title": "TEST (SLURM): motifs with 3 to 5 edges",
+ "out_dir": "out/campaign_test_slurm",
+ "configs": ["configs/test_slurm_p001.json", "configs/test_slurm_p005.json", "configs/test_slurm_p02.json", "configs/test_slurm_p05.json"]
+}

@@ -1,0 +1,6 @@
+{
+ "name": "test_small",
+ "title": "TEST (local): motifs with 3 to 5 edges",
+ "out_dir": "out/campaign_test_small",
+ "configs": ["configs/test_small_p001.json", "configs/test_small_p005.json", "configs/test_small_p02.json", "configs/test_small_p05.json"]
+}

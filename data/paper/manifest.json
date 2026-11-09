@@ -1,0 +1,299 @@
+{
+  "campaigns": [
+    {
+      "alternative_pairs_per_rho": 400,
+      "config": "campaigns/n500_m38.json",
+      "id": "n500_m38",
+      "max_edges": 8,
+      "min_edges": 3,
+      "n": 500,
+      "null_pairs_per_p": 1200,
+      "p_values": [
+        0.01,
+        0.05,
+        0.2,
+        0.5
+      ],
+      "total_pairs": 24000
+    },
+    {
+      "alternative_pairs_per_rho": 400,
+      "config": "campaigns/n5000.json",
+      "id": "n5000",
+      "max_edges": 5,
+      "min_edges": 3,
+      "n": 5000,
+      "null_pairs_per_p": 1200,
+      "p_values": [
+        0.01,
+        0.05,
+        0.2,
+        0.5
+      ],
+      "total_pairs": 24000
+    },
+    {
+      "alternative_pairs_per_rho": 400,
+      "config": "campaigns/n10000_m34.json",
+      "id": "n10000_m34",
+      "max_edges": 4,
+      "min_edges": 3,
+      "n": 10000,
+      "null_pairs_per_p": 1200,
+      "p_values": [
+        0.01,
+        0.05,
+        0.2,
+        0.5
+      ],
+      "total_pairs": 24000
+    }
+  ],
+  "data_files": {
+    "data/paper/n10000_m34/p001/graph_check.csv": {
+      "bytes": 1873,
+      "sha256": "58050508322cb026a12335aad16208f62b39b8eef90a9ba67962bcf2ca900f87"
+    },
+    "data/paper/n10000_m34/p001/motifs.csv": {
+      "bytes": 340,
+      "sha256": "98a6d5d4dba84fb990af195f6283e35da06c3e7ea4d3c04369d39d68c263b596"
+    },
+    "data/paper/n10000_m34/p001/null_check.csv": {
+      "bytes": 180,
+      "sha256": "84322bdf1b55ee773dc6dcc5e1f6ca5945ae85694f9b696fd2ce955e0d71d3dc"
+    },
+    "data/paper/n10000_m34/p001/paired.csv": {
+      "bytes": 3374,
+      "sha256": "c7b0301182da098fe579680c5ae85a1bb3ba24848486ffa2ff49c9e9c514b07a"
+    },
+    "data/paper/n10000_m34/p001/summary.csv": {
+      "bytes": 46986,
+      "sha256": "ccf46cdfc983f8d9fc0fddf8a76fe34157bae4018d99865c98c617b089dc6373"
+    },
+    "data/paper/n10000_m34/p005/graph_check.csv": {
+      "bytes": 1853,
+      "sha256": "98914fa1ab870131ab953de25c4dfab4a8e9f1912c129012d8367b9614f1c0d6"
+    },
+    "data/paper/n10000_m34/p005/motifs.csv": {
+      "bytes": 340,
+      "sha256": "98a6d5d4dba84fb990af195f6283e35da06c3e7ea4d3c04369d39d68c263b596"
+    },
+    "data/paper/n10000_m34/p005/null_check.csv": {
+      "bytes": 180,
+      "sha256": "03d8966776a8b6a2a12ac397301158c61ba790d11750443dd1383945883563ad"
+    },
+    "data/paper/n10000_m34/p005/paired.csv": {
+      "bytes": 3345,
+      "sha256": "6c217eefb3e33d1e22a84b72dbb689c2a878e0e935f308255c4b17bc16e3bc05"
+    },
+    "data/paper/n10000_m34/p005/summary.csv": {
+      "bytes": 47171,
+      "sha256": "e43e190e4b2fa02b82076f8c92ccee6d574273c816586bc9a347bf7a23b29674"
+    },
+    "data/paper/n10000_m34/p02/graph_check.csv": {
+      "bytes": 1835,
+      "sha256": "ea26359ae8215a04fb6b7a905185c2605f13960edf8232d6292f4a5e61e2f200"
+    },
+    "data/paper/n10000_m34/p02/motifs.csv": {
+      "bytes": 340,
+      "sha256": "98a6d5d4dba84fb990af195f6283e35da06c3e7ea4d3c04369d39d68c263b596"
+    },
+    "data/paper/n10000_m34/p02/null_check.csv": {
+      "bytes": 180,
+      "sha256": "0a336c06943094d666c639590784b4538c6943fb8b1c4950e1dd448a388981c9"
+    },
+    "data/paper/n10000_m34/p02/paired.csv": {
+      "bytes": 3367,
+      "sha256": "2c717630235833fb3c6b3926ded7a5d3d0a8f196c69b8ef6423ccb26616a1447"
+    },
+    "data/paper/n10000_m34/p02/summary.csv": {
+      "bytes": 46535,
+      "sha256": "99a94324104d56cf24e15af5d49a79459f5d0538069aa46629135529a7b8eec7"
+    },
+    "data/paper/n10000_m34/p05/graph_check.csv": {
+      "bytes": 1825,
+      "sha256": "42993f80f0bc0ae9f4891cb02d9c77a8ecc042cd3d13db9cea3da043fd298a34"
+    },
+    "data/paper/n10000_m34/p05/motifs.csv": {
+      "bytes": 340,
+      "sha256": "98a6d5d4dba84fb990af195f6283e35da06c3e7ea4d3c04369d39d68c263b596"
+    },
+    "data/paper/n10000_m34/p05/null_check.csv": {
+      "bytes": 180,
+      "sha256": "fed8d450634d62846b60c7e1c1dd9d7272be02bbafd0d18388a7aa43dc54750b"
+    },
+    "data/paper/n10000_m34/p05/paired.csv": {
+      "bytes": 3341,
+      "sha256": "02b90c3924f71369abedfea0fb19c9f082eb1cd4a0b97d7e5e395c74e65d4061"
+    },
+    "data/paper/n10000_m34/p05/summary.csv": {
+      "bytes": 46450,
+      "sha256": "6e6210e840a08bf0b07930d534078be095664a89205843a7963092042bb443af"
+    },
+    "data/paper/n5000/p001/graph_check.csv": {
+      "bytes": 1870,
+      "sha256": "9581542f038d296d30e24ee28293881816ac71899b12321c3a22fc53c5115513"
+    },
+    "data/paper/n5000/p001/motifs.csv": {
+      "bytes": 835,
+      "sha256": "fdf421222701af73e01166eb28f77a81c44fed4af7cf5d5d97144adfc92cac4b"
+    },
+    "data/paper/n5000/p001/null_check.csv": {
+      "bytes": 413,
+      "sha256": "bc5efb7f1b02dcaf09d594f9a597ae4fe62fa35ff28baff3dc93761f367acc91"
+    },
+    "data/paper/n5000/p001/paired.csv": {
+      "bytes": 3939,
+      "sha256": "887f537c3477e4d8dfdd63ebbebaf8257abda792c165fbe86349bf9338fee9f2"
+    },
+    "data/paper/n5000/p001/summary.csv": {
+      "bytes": 78361,
+      "sha256": "aa11697452c12cd03dbe0e16fcef6ddee5d58029551ca9c703fcfc8ac094b387"
+    },
+    "data/paper/n5000/p005/graph_check.csv": {
+      "bytes": 1854,
+      "sha256": "ba44bed8d53a7395ad937dc0f35a5a4e613c857630bcdfb31f9632da7434e006"
+    },
+    "data/paper/n5000/p005/motifs.csv": {
+      "bytes": 835,
+      "sha256": "fdf421222701af73e01166eb28f77a81c44fed4af7cf5d5d97144adfc92cac4b"
+    },
+    "data/paper/n5000/p005/null_check.csv": {
+      "bytes": 413,
+      "sha256": "93ff3be9b13211e969e75a729dcb2888f87fef67fd988af5c86c8c427e0a6f17"
+    },
+    "data/paper/n5000/p005/paired.csv": {
+      "bytes": 3967,
+      "sha256": "a956d56e1df628a2dcab9c8eba7f351c721b7aea6e19b1c96ca051b1431cf104"
+    },
+    "data/paper/n5000/p005/summary.csv": {
+      "bytes": 77559,
+      "sha256": "99f8d31a92f4428a6f5fe8c6f70d1d3a636ba81bffa29343e236646a4eb79b4d"
+    },
+    "data/paper/n5000/p02/graph_check.csv": {
+      "bytes": 1837,
+      "sha256": "13a8a0dafecd8f5950d8b7399e52a87f98a4174d49040d0fa41400a08b983629"
+    },
+    "data/paper/n5000/p02/motifs.csv": {
+      "bytes": 835,
+      "sha256": "fdf421222701af73e01166eb28f77a81c44fed4af7cf5d5d97144adfc92cac4b"
+    },
+    "data/paper/n5000/p02/null_check.csv": {
+      "bytes": 413,
+      "sha256": "a2a3ad8aceaa68aca84cddefcabf5a764e452eef9c849e532ddf8fb1426b4423"
+    },
+    "data/paper/n5000/p02/paired.csv": {
+      "bytes": 3965,
+      "sha256": "9a4de9acbf4749e5d3b0862951a681d423d51ccc99396802e6505c1f0156fb6a"
+    },
+    "data/paper/n5000/p02/summary.csv": {
+      "bytes": 77758,
+      "sha256": "33795d41a1f94fa172d1d12efddf5a563cc4756409853551a1cc4c3857d17d57"
+    },
+    "data/paper/n5000/p05/graph_check.csv": {
+      "bytes": 1821,
+      "sha256": "e15a2395517777901cc4b6f8fa7a3377d1bcf797a6b16b2404c72ab7f796bf39"
+    },
+    "data/paper/n5000/p05/motifs.csv": {
+      "bytes": 835,
+      "sha256": "fdf421222701af73e01166eb28f77a81c44fed4af7cf5d5d97144adfc92cac4b"
+    },
+    "data/paper/n5000/p05/null_check.csv": {
+      "bytes": 413,
+      "sha256": "eb6b57b8eb977d596312a3d67fcafb56459a3c22bb5636a5e218ced2a7ddf5fc"
+    },
+    "data/paper/n5000/p05/paired.csv": {
+      "bytes": 3977,
+      "sha256": "feca8c099d9c7755892e020ce6b85934b4cb2b7b0084b84073d778dd14f3ad5f"
+    },
+    "data/paper/n5000/p05/summary.csv": {
+      "bytes": 78414,
+      "sha256": "a15c8516e2995c2ebefa4a40748da5314b76a5f458b0cba55802c2c524f6f180"
+    },
+    "data/paper/n500_m38/p001/graph_check.csv": {
+      "bytes": 1860,
+      "sha256": "93785c178bcd5d55ff34b7dc3f74ddd1127d53b2379a0ef1068ce60ca3fea44b"
+    },
+    "data/paper/n500_m38/p001/motifs.csv": {
+      "bytes": 18846,
+      "sha256": "e00b93b61bf3ecf9bc8935eed4b04523c2ddc87d887b2df7216b26bdeda3f08d"
+    },
+    "data/paper/n500_m38/p001/null_check.csv": {
+      "bytes": 7300,
+      "sha256": "81df778db19c8c2d49fb1973160a9a470b38dde499e1aca2acfe8f416d8c83ea"
+    },
+    "data/paper/n500_m38/p001/paired.csv": {
+      "bytes": 4911,
+      "sha256": "6584e8ff0ce4bb13656edcfd7f5c0c8157550a8f2b2b3883df49c4d8be0f4d9f"
+    },
+    "data/paper/n500_m38/p001/summary.csv": {
+      "bytes": 171015,
+      "sha256": "bd2886bea0e61c90c58520e0a14ecab69e4f3e77a66e956b03a5f32f02ac2147"
+    },
+    "data/paper/n500_m38/p005/graph_check.csv": {
+      "bytes": 1849,
+      "sha256": "28c80daf482cac8060304ba7a497161264ad3df727df971319013692110434d6"
+    },
+    "data/paper/n500_m38/p005/motifs.csv": {
+      "bytes": 18846,
+      "sha256": "e00b93b61bf3ecf9bc8935eed4b04523c2ddc87d887b2df7216b26bdeda3f08d"
+    },
+    "data/paper/n500_m38/p005/null_check.csv": {
+      "bytes": 7300,
+      "sha256": "65ef5d4697d0a63236abe6ac0ccf6ba5e56dceb16d25cea4e857e3e7ba4a0ab0"
+    },
+    "data/paper/n500_m38/p005/paired.csv": {
+      "bytes": 4916,
+      "sha256": "ddbdbdaba3b67a4c78a55118ad751e3b700581e9e387956c3da038a23864f3f7"
+    },
+    "data/paper/n500_m38/p005/summary.csv": {
+      "bytes": 170844,
+      "sha256": "b28d886e20112e4dd5d33dee0a9d7cb7a64487aec7a333b38e76544efed66206"
+    },
+    "data/paper/n500_m38/p02/graph_check.csv": {
+      "bytes": 1821,
+      "sha256": "e818e06e04677d544b6998e34d196b2729da2fab3829051eb0f251f4a603744a"
+    },
+    "data/paper/n500_m38/p02/motifs.csv": {
+      "bytes": 18846,
+      "sha256": "e00b93b61bf3ecf9bc8935eed4b04523c2ddc87d887b2df7216b26bdeda3f08d"
+    },
+    "data/paper/n500_m38/p02/null_check.csv": {
+      "bytes": 7300,
+      "sha256": "ef562ebcfd46bc892398af899a2c5b6a95f0a27e6b7affb778c70abcb151ac61"
+    },
+    "data/paper/n500_m38/p02/paired.csv": {
+      "bytes": 4891,
+      "sha256": "2e8853523aebd7a817e160683b25f130f4a85f858077304d0e1682ca397df294"
+    },
+    "data/paper/n500_m38/p02/summary.csv": {
+      "bytes": 170044,
+      "sha256": "77b3790fa73a0b71439a54e2a4d15c02e90f9b4f8d494cb7328a8353b6502f8f"
+    },
+    "data/paper/n500_m38/p05/graph_check.csv": {
+      "bytes": 1815,
+      "sha256": "2fef5238ae10d32236cdaa97acc7bacec38779f56ed3b01bf21ae9765aadd00c"
+    },
+    "data/paper/n500_m38/p05/motifs.csv": {
+      "bytes": 18846,
+      "sha256": "e00b93b61bf3ecf9bc8935eed4b04523c2ddc87d887b2df7216b26bdeda3f08d"
+    },
+    "data/paper/n500_m38/p05/null_check.csv": {
+      "bytes": 7300,
+      "sha256": "3d2c118790511d97d021ff80432dd7e9bd00e051052f488221abf48daa45d31c"
+    },
+    "data/paper/n500_m38/p05/paired.csv": {
+      "bytes": 4902,
+      "sha256": "457efc976c30369323a80960d3ce4c2702e15eb73952425fc4040ba171aa2aa9"
+    },
+    "data/paper/n500_m38/p05/summary.csv": {
+      "bytes": 169264,
+      "sha256": "27afae72fa560be62115ef8bf55b57559e82dc6c5c8eb1aa5ebe409b3974342d"
+    }
+  },
+  "figure_numbering": "November 2026 manuscript",
+  "manuscript_title": "Testing Correlation in Graphs by Counting Bounded Degree Motifs",
+  "raw_pairwise_counts_included": false,
+  "schema_version": 1,
+  "source_graph_pairs": 72000
+}

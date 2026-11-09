@@ -1,0 +1,14 @@
+{
+ "name": "test_slurm_p02",
+ "n": 1000,
+ "p": 0.2,
+ "mmin": 3,
+ "mmax": 5,
+ "rhos": [0.0, 0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.55, 0.6, 0.7, 0.8, 0.9, 0.99],
+ "reps": [60, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+ "seed": 1077020,
+ "shard_size": 12,
+ "order": "interleaved",
+ "save_graphs": false,
+ "out_dir": "out/test_slurm_p02"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "n500_m38",
+ "title": "Motifs with 3 to 8 edges; n=500",
+ "out_dir": "out/campaign_n500_m38",
+ "configs": [
+  "configs/n500_m38_p001.json",
+  "configs/n500_m38_p005.json",
+  "configs/n500_m38_p02.json",
+  "configs/n500_m38_p05.json"
+ ]
+}

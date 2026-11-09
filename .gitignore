@@ -1,0 +1,37 @@
+# Generated experiments and caches
+/out/
+/cache/
+/figures/
+/site/
+/job_logs/
+/final_results/
+/publication_prep/
+__pycache__/
+*.py[cod]
+*.pkl
+*.npy
+*.npz
+*.log
+*.out
+*.err
+*.zip
+*.pdf
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.matplotlib/
+.mplconfig/
+.cache/
+
+# Local environments and private machine settings
+.venv/
+venv/
+.env
+.env.*
+.ssh/
+ssh_config
+connection.md
+.DS_Store
+.idea/
+.vscode/

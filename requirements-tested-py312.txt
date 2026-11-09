@@ -1,0 +1,6 @@
+# Locally validated environment for Python 3.12.
+-r requirements.txt
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+pynauty==2.8.8.1

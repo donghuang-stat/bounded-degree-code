@@ -1,0 +1,3 @@
+#!/bin/bash
+# stand-in for SLURM squeue, see mockslurm.py
+exec "${PYTHON:-python3}" "$(dirname "${BASH_SOURCE[0]}")/mockslurm.py" squeue "$@"

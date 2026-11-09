@@ -1,0 +1,11 @@
+{
+ "name": "n10000_m34",
+ "title": "Motifs with 3 to 4 edges; n=10000",
+ "out_dir": "out/campaign_n10000_m34",
+ "configs": [
+  "configs/n10000_m34_p001.json",
+  "configs/n10000_m34_p005.json",
+  "configs/n10000_m34_p02.json",
+  "configs/n10000_m34_p05.json"
+ ]
+}

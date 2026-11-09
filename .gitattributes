@@ -1,0 +1,11 @@
+*.py text eol=lf
+*.sh text eol=lf
+*.sbatch text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
+# Preserve exact bytes of the checksummed source tables.
+*.csv -text
+*.png binary
+*.pdf binary

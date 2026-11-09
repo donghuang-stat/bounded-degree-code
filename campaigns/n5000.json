@@ -1,0 +1,6 @@
+{
+ "name": "n5000",
+ "title": "Motifs with 3 to 5 edges",
+ "out_dir": "out/campaign_n5000",
+ "configs": ["configs/n5000_p001.json", "configs/n5000_p005.json", "configs/n5000_p02.json", "configs/n5000_p05.json"]
+}

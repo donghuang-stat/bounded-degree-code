@@ -1,0 +1,3 @@
+{"name": "test_pipeline_reshard", "n": 30, "p": 0.5, "mmin": 3, "mmax": 5,
+ "rhos": [0.0, 0.6, 0.9], "reps": [40, 20, 20], "seed": 7, "shard_size": 7,
+ "out_dir": "out/test_pipeline_reshard"}

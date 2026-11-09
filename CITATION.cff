@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the accompanying manuscript as described in README.md."
+type: software
+title: "Code for Testing Correlation in Graphs by Counting Bounded Degree Motifs"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/donghuang-stat/bounded-degree-code"
+authors:
+  - family-names: Huang
+    given-names: Dong
+  - family-names: Yang
+    given-names: Pengkun
+abstract: >-
+  Exact signed motif-count simulations, numerical summary data, and figure
+  reproduction for the finite-sample experiments in Section 5 of the manuscript
+  Testing Correlation in Graphs by Counting Bounded Degree Motifs.
